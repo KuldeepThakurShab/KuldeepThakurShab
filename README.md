@@ -30,7 +30,7 @@
  <h2 >🌐 Connect with me: </h2> 
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/kuldeep-tomar-b1b895223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kuldeep-tomar-b1b895223" height="55" width="55" /></a>
    <a href="https://twitter.com/@tomar_thak28157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tomar_thak28157" height="55" width="55" /></a>
-  <a href="https://www.leetcode.com/https://leetcode.com/thakurkuldeeptomar3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/thakurkuldeeptomar3/" height="55" width="55" /></a>
+  <a href="https://leetcode.com/u/thakurkuldeeptomar3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/thakurkuldeeptomar3/" height="55" width="55" /></a>
   <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/thakurkuldeeptomar3/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/thakurkuldeeptomar3/practice" height="55" width="55" /></a>
 </div>
 
